@@ -1,4 +1,4 @@
-# Paper Deep Read / 科研论文精读
+# Paper Deep Read Skill / 科研论文精读 Skill
 
 A reusable Codex skill for finding, annotating, visualizing, and teaching academic papers in small, durable reading units.
 
