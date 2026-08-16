@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研论文精读"
+  short_description: "检索论文、标注原文、可视化并逐段精讲"
+  default_prompt: "Use $paper-deep-read to find and deeply read this paper: <title>."
